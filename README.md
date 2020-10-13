@@ -26,5 +26,10 @@ Inside the `explanations_code/` folder, there are the Jupyter notebooks for gene
 
 Note: The font file included is required for generating some of the explanations for the text dataset.
 
-
+The Figure shows the Explanations obtained from different methods for the various modalities
 <img src="images/Explanations.png" alt="Explanations">
+
+### Results from the AMT Study
+
+The values indicate the rate by which users selected a particular method when it is an available explanation, with 95% bootstrap confidence intervals
+<img src="images/Results.jpg" alt="Results">
