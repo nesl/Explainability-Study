@@ -16,20 +16,20 @@ https://drive.google.com/drive/folders/1ZRWIeUHxGbKpqWkJ2HpiSLtmUyllfThf?usp=sha
 Download each of the folders there and place them in `Data/`
 
 ### Training Code
-Inside the `Training_code/` folder, there are the Jupyter notebooks for training the models used during the study.
+Inside the `training_code/` folder, there are the Jupyter notebooks for training the models used during the study.
 
 ### Trained Models
-Inside the `Trained_models/` folder, there are the pretrained models used for the study, named as `[domain].hdf5` for each of the domains: image, text, audio, ECG.
+Inside the `trained_models/` folder, there are the pretrained models used for the study, named as `[domain].hdf5` for each of the domains: image, text, audio, ECG.
 
 ### Explanations Code
-Inside the `Explanations_code/` folder, there are the Jupyter notebooks for generating explanations using each of the methods used for the study for each domain.
+Inside the `explanations_code/` folder, there are the Jupyter notebooks for generating explanations using each of the methods used for the study for each domain.
 
 Note: The font file included is required for generating some of the explanations for the text dataset.
 
 <img src="images/Explanations.png" alt="Explanations">
 
 ### Survey Responses
-Inside the `Survey_responses/` folder, we have the survey responses collected from the Amazon Turk Study and the code to process them.
+Inside the `survey responses/` folder, we have the survey responses collected from the Amazon Turk Study and the code to process them.
 
 ## Results from the AMT Study
 
