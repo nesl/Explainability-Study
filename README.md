@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 Here's the Google Drive Link to the preprocessed data:
 https://drive.google.com/drive/folders/1ZRWIeUHxGbKpqWkJ2HpiSLtmUyllfThf?usp=sharing
 
-Download each of the folders there and place them in `Data/`
+Download each of the folders there and place them in `data/`
 
 ### Training Code
 Inside the `training_code/` folder, there are the Jupyter notebooks for training the models used during the study.
