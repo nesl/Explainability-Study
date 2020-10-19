@@ -10,8 +10,7 @@ pip3 install -r requirements.txt
 ## Contents
 
 ### Data
-Here's the Google Drive Link to the preprocessed data:
-https://drive.google.com/drive/folders/1ZRWIeUHxGbKpqWkJ2HpiSLtmUyllfThf?usp=sharing
+Here's the Google Drive Link to the preprocessed data: [Link](https://drive.google.com/drive/folders/1ZRWIeUHxGbKpqWkJ2HpiSLtmUyllfThf?usp=sharing)
 
 Download each of the folders there and place them in `data/`
 
