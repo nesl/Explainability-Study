@@ -35,3 +35,15 @@ Inside the `survey responses/` folder, we have the survey responses collected fr
 The values indicate the rate by which users selected a particular method when it is an available explanation, with 95% bootstrap confidence intervals
 
 <img src="images/Results.JPG" alt="Results">
+
+## Cite
+
+If you find this code and results useful in your research, please cite:
+
+	@article{jeyakumar2020can,
+	  title={How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods},
+	  author={Jeyakumar, Jeya Vikranth and Noor, Joseph and Cheng, Yu-Hsi and Garcia, Luis and Srivastava, Mani},
+	  journal={Advances in Neural Information Processing Systems},
+	  volume={33},
+	  year={2020}
+	}
