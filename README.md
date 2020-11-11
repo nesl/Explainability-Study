@@ -36,7 +36,7 @@ The values indicate the rate by which users selected a particular method when it
 
 <img src="images/Results.JPG" alt="Results">
 
-## Cite
+## BibTex
 
 If you find this code and results useful in your research, please cite:
 
